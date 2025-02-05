@@ -1,0 +1,8 @@
+#root {
+  background-color: #020010;
+}
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
