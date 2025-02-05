@@ -8,6 +8,7 @@
   background: none;
   border-radius: 20px;
   margin-top: 20px;
+  border: 1px solid white;
   transition: all 0.2s linear;
 }
 .btn:hover {
