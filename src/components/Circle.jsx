@@ -35,8 +35,8 @@ let Circle = ({ SGPA }) => {
   const progressCircle = {
     transtion: `all 1s linear`,
     backgroundImage: `conic-gradient(
-      rgb(255, 0, 0) ${printSGPA * 36}deg,
-      rgb(255, 255, 255) 0deg
+      rgb(246, 255, 0) ${printSGPA * 36}deg,
+      rgb(55, 55, 55) 0deg
     )`,
   };
   return (
